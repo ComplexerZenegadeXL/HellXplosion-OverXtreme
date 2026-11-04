@@ -1,0 +1,12 @@
+//==========================================
+//  Hellxplosion Overxtreme Initial Release
+//==========================================
+(+)Nexus Infinity Stuff Ported.
+(+)Nexus Infinity Gods Stuff Ported.
+(+)Music changes
+===Upcoming===
+(+)Realm667 Monsters Including Drake Husk,Cyber commander and werewolf.
+(+)Convert every code to ZScript.
+(+)Dark ages and eternal weapons.
+(+)Ported all vehicles from complex invasion.
+(+)More friendly NPCs:duke nukem,daisy(eternal),humanfied zombieman,sergeant,commando,human shocktrooper,and extermination day marines(Including females).

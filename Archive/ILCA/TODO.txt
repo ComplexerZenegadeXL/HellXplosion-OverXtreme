@@ -1,5 +1,0 @@
--Fix the NOTIMEFREEZE Clashes
---NOTABLE ACTORS
----Enraged Behemoth Hellstorm
--Don't be lazy with Enraged Behemoth gldefs
--Fix ASG mode switch 
